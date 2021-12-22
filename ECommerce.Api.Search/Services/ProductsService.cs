@@ -15,10 +15,12 @@ namespace ECommerce.Api.Search.Services
 
         private ILogger<IProductsService> _logger;
         private IHttpClientFactory _httpClientFactory;
+        
         public ProductsService(IHttpClientFactory httpClientFactory, ILogger<IProductsService> logger)
         {
             this._httpClientFactory = httpClientFactory;
             this._logger = logger;
+
 
         }
  
@@ -44,6 +46,37 @@ namespace ECommerce.Api.Search.Services
 
 
                 
+            }
+            catch (Exception ex)
+            {
+
+                _logger.LogError(ex.Message);
+                return (false, null, ex.Message);
+            }
+        }
+
+        public async Task<(bool IsSuccess, IEnumerable<Product> Products, string Error)> GetProductsAsync()
+        {
+            try
+            {
+                var productServiceClient = _httpClientFactory.CreateClient("ProductsService");
+                var response = await productServiceClient.GetAsync($"api/products");
+
+                if (response.IsSuccessStatusCode)
+                {
+                    var content = await response.Content.ReadAsByteArrayAsync();
+                    var options = new JsonSerializerOptions() { PropertyNameCaseInsensitive = true };
+
+                    var result = JsonSerializer.Deserialize<IEnumerable<Product>>(content, options);
+
+
+                    return (true, result, null);
+                }
+
+                return (false, null, response.ReasonPhrase);
+
+
+
             }
             catch (Exception ex)
             {
