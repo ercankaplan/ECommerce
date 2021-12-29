@@ -15,3 +15,15 @@ This is an API Gateway built on top of the popular Express JS platform
 Azure API Gateway allows you to create a management layer that includes documentation, api gateways etc. among other things.
 
 ![image](https://user-images.githubusercontent.com/91077428/147696657-15db8c8c-95a4-4595-b366-54ce059c8cae.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147696799-33a38eb4-e618-4b93-9fcc-c0c38545a298.png)
+
+PS C:\WINDOWS\system32> docker inspect ecomproducts
+
+![image](https://user-images.githubusercontent.com/91077428/147696902-7a359e43-5a02-4574-a125-5f713e13cc2a.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147696946-dc69d3bc-291f-4090-883e-808e5d5548e4.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147696998-dd11fcaf-43af-43c1-9f15-984739e67221.png)
+
+
