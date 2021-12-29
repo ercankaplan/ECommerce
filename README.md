@@ -16,7 +16,7 @@ Azure API Gateway allows you to create a management layer that includes document
 
 ![image](https://user-images.githubusercontent.com/91077428/147696657-15db8c8c-95a4-4595-b366-54ce059c8cae.png)
 
-![image](https://user-images.githubusercontent.com/91077428/147696799-33a38eb4-e618-4b93-9fcc-c0c38545a298.png)
+![image](https://user-images.githubusercontent.com/91077428/147697136-cd058e0b-dad0-45f4-855d-c1f948075758.png)
 
 PS C:\WINDOWS\system32> docker inspect ecomproducts
 
