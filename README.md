@@ -26,4 +26,4 @@ PS C:\WINDOWS\system32> docker inspect ecomproducts
 
 ![image](https://user-images.githubusercontent.com/91077428/147696998-dd11fcaf-43af-43c1-9f15-984739e67221.png)
 
-
+<a href="https://github.com/docker/labs/blob/master/windows/windows-containers/README.md">Getting Started with Windows Containers (Lab)</a>
