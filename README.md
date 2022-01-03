@@ -14,6 +14,8 @@ This is an API Gateway built on top of the popular Express JS platform
 ### Azure API Management 
 Azure API Gateway allows you to create a management layer that includes documentation, api gateways etc. among other things.
 
+## Push Images to DockerHub
+
 ![image](https://user-images.githubusercontent.com/91077428/147975549-8ebe1497-3baf-4927-b174-42b867035a40.png)
 
 ![image](https://user-images.githubusercontent.com/91077428/147975372-dc8b3ebc-8ed7-4195-a96f-d40a57b8bb0a.png)
@@ -23,6 +25,11 @@ Azure API Gateway allows you to create a management layer that includes document
 
 ![image](https://user-images.githubusercontent.com/91077428/147975269-e63d0433-c8f5-47c4-b47e-419a0f4e6fb4.png)
 
-## Azure Container Registry
+## Push Images to Azure Container Registry
 
 ![image](https://user-images.githubusercontent.com/91077428/147977027-7cdaabb0-62d2-4abd-b92a-4523e87a6041.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147981140-78a4f33c-a470-4bad-814a-0d7c2f8de4b1.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147981222-2a2de8fe-427c-4039-b4c6-9f10299714dd.png)
+
