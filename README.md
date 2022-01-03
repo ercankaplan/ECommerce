@@ -13,3 +13,12 @@ This is also an API Gateway built on top of the popular Nginx server. This is a 
 This is an API Gateway built on top of the popular Express JS platform
 ### Azure API Management 
 Azure API Gateway allows you to create a management layer that includes documentation, api gateways etc. among other things.
+
+![image](https://user-images.githubusercontent.com/91077428/147975549-8ebe1497-3baf-4927-b174-42b867035a40.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147975372-dc8b3ebc-8ed7-4195-a96f-d40a57b8bb0a.png)
+
+![image](https://user-images.githubusercontent.com/91077428/147975437-b3f87a96-8c71-403e-a105-889bcf4d3125.png)
+
+
+![image](https://user-images.githubusercontent.com/91077428/147975269-e63d0433-c8f5-47c4-b47e-419a0f4e6fb4.png)
