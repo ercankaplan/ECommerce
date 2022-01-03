@@ -22,3 +22,7 @@ Azure API Gateway allows you to create a management layer that includes document
 
 
 ![image](https://user-images.githubusercontent.com/91077428/147975269-e63d0433-c8f5-47c4-b47e-419a0f4e6fb4.png)
+
+## Azure Container Registry
+
+![image](https://user-images.githubusercontent.com/91077428/147977027-7cdaabb0-62d2-4abd-b92a-4523e87a6041.png)
