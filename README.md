@@ -39,3 +39,10 @@ Azure API Gateway allows you to create a management layer that includes document
 
 ![image](https://user-images.githubusercontent.com/91077428/148131923-ff582a17-472f-44c0-8ed2-e038ec77a55d.png)
 
+on edge
+
+importing certificate then
+browse 
+https://ecommerceeko1.centralus.cloudapp.azure.com:19080/Explorer
+
+![image](https://user-images.githubusercontent.com/91077428/148133476-d655be55-e98c-4ca3-bc43-196ab0f4b0a4.png)
