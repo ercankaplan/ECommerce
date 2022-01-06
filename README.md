@@ -14,23 +14,6 @@ This is an API Gateway built on top of the popular Express JS platform
 ### Azure API Management 
 Azure API Gateway allows you to create a management layer that includes documentation, api gateways etc. among other things.
 
-Steps followed:
-
-I have created .Net Core 3.1 Sample API in Visual Studio 2019
-
-Installed Docker Host on my Windows 10 machine.
-
-Switched docker host to Windows container
-
-Created docker image of my .net Core application.
-
-Pushed that image to private docker registry
-
-Created Service Fabric Container application where I pulled this image
-
-Deployed Service Fabric Container application on local Service Fabric Cluster and Its working fine.
-
-On Azure Cloud, created VM with Windows Server 2019, installed Service Fabric Cluster (Host OS: Windows Server 2019)
 
 
 ![image](https://user-images.githubusercontent.com/91077428/147696657-15db8c8c-95a4-4595-b366-54ce059c8cae.png)
