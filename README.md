@@ -46,3 +46,8 @@ browse
 https://ecommerceeko1.centralus.cloudapp.azure.com:19080/Explorer
 
 ![image](https://user-images.githubusercontent.com/91077428/148133476-d655be55-e98c-4ca3-bc43-196ab0f4b0a4.png)
+
+after services deployment
+
+![image](https://user-images.githubusercontent.com/91077428/148425794-76b1b35f-ba86-4d67-82f4-35f21681c26d.png)
+
